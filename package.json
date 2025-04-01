@@ -17,7 +17,10 @@
     "codependency",
     "therapy"
   ],
-  "author": "April Fools Developer",
+  "author": "Maria Bitsch <mariacodes@salonen.dk>",
+  "contributors": [
+    "Claude"
+  ],
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
