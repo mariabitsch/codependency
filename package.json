@@ -1,5 +1,5 @@
 {
-  "name": "codependency",
+  "name": "@mariabitsch/codependency",
   "version": "0.1.0",
   "description": "An unhealthy relationship manager for JavaScript packages - they can't live with each other, but they can't live without each other either.",
   "main": "src/index.js",
